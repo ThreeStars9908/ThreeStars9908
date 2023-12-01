@@ -1,4 +1,4 @@
-# Hello, I'm [ThreeStars] 👋
+# Hello, I'm ThreeStars 👋
 
 ## About Me
 
