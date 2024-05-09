@@ -51,7 +51,7 @@ I'm a passionate software developer with a diverse skill set in both web and mob
 ## Education
 
 - **Bachelor of Science in Computer Science**
-  - [University Name], [Year Started] - [Year Completed]
+  - University of Richmond, 2012 - 2016
 
 
 
