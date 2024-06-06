@@ -51,7 +51,7 @@ I'm a passionate software developer with a diverse skill set in both web and mob
 ## Education
 
 - **Bachelor in Computer Science**
-  - University of Richmond, 2012 - 2016
+  - Tiffin University, 2009 - 2013
 
 
 
