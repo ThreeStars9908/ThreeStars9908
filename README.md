@@ -25,7 +25,7 @@ I'm a passionate software developer with a diverse skill set in both web and mob
 
 ## Work Experience
 
-### Mobile Application Developer (Remote) | CMOLDS (10/2021 - 12/2023)
+### Mobile Application Developer (Remote) | CMOLDS (10/2021 - 05/2024)
 
 - Developed 10+ iOS/Android apps, achieving over 500,000 downloads in the first year.
 - Increased app performance and UX by 40% using React Native, Flutter, and Kivy.
